@@ -12,16 +12,16 @@
 
 ### 🛠️ Мои технологии и инструменты
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Яндекс.Директ](https://img.shields.io/badge/-Яндекс.Директ-333333?style=flat&logo=yandex)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoWidth=40)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoWidth=40)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoWidth=40)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoWidth=40)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoWidth=40)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js&logoWidth=40)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoWidth=40)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoWidth=40)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoWidth=40)
+![Яндекс.Директ](https://img.shields.io/badge/-Яндекс.Директ-333333?style=flat&logo=yandex&logoWidth=40)
 
 ### 📫 Контакты
 
