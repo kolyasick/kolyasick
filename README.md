@@ -6,9 +6,15 @@
     <img src="https://komarev.com/ghpvc/?username=kolyasick&label=Просмотры профиля&color=0e75b6&style=flat" alt="Просмотры профиля"/>
   </a>
   <a href="https://t.me/kolya_sickkk">
-    <img src="https://img.shields.io/twitter/follow/[Ваш Twitter]?style=social" alt="Twitter Follow"/>
+    <img src="https://img.shields.io/badge/Telegram-Follow-blue" alt="Telegram Follow"/>
   </a>
 </p>
+
+<h3 align="center">📈 Маркетолог Яндекс.Директ</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Yandex.Direct_logo.svg/2560px-Yandex.Direct_logo.svg.png" alt="Яндекс.Директ" width="200px"/>
+</p>
+<p align="center">Имею опыт работы с Яндекс.Директ, помогая бизнесам достигать своих целей с помощью эффективных рекламных кампаний.</p>
 
 ### 🛠️ Мои технологии и инструменты
 
@@ -20,6 +26,8 @@
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Яндекс.Директ](https://img.shields.io/badge/-Яндекс.Директ-333333?style=flat&logo=yandex)
 
 ### 📫 Контакты
 
