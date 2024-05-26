@@ -25,8 +25,8 @@
 
 ### 📫 Контакты
 
-- <a href="https://t.me/kolya_sickkk">Телеграм</a>
-- <a href="https://vk.com/sin_s1mpla">ВКонтакте</a>
+- <a href="https://t.me/kolya_sickkk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> Телеграм</a>
+- <a href="https://vk.com/sin_s1mpla"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white"/> ВКонтакте</a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kolyasick&theme=onedark" alt="Трофеи"/>
