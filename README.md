@@ -35,8 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yandex/yandex-original.svg" height="40" alt="yandex direct logo"  />
 </div>
+
 ### 📫 Контакты
 
 - <a href="https://t.me/kolya_sickkk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
