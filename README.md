@@ -16,16 +16,27 @@
 
 ### 🛠️ Мои технологии и инструменты
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoWidth=40)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoWidth=40)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoWidth=40)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoWidth=40)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoWidth=40)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js&logoWidth=40)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoWidth=40)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoWidth=40)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoWidth=40)
-![Яндекс.Директ](https://img.shields.io/badge/-Яндекс.Директ-333333?style=flat&logo=yandex&logoWidth=40)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
 
 ### 📫 Контакты
 
