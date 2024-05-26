@@ -3,6 +3,11 @@
 </div>
 
 <h1 align="center">Привет! Меня зовут Николай <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+
+<div align="center">
+  <a href="https://t.me/kolya_sickkk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://vk.com/sin_s1mpla"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white"/></a>
+</div>
 <h3 align="center">Я начинающий frontend разработчик из г. Санкт-Петербург</h3>
 
 <p align="center">
@@ -37,10 +42,6 @@
   <img width="12" />
 </div>
 
-### 📫 Контакты
-
-- <a href="https://t.me/kolya_sickkk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-- <a href="https://vk.com/sin_s1mpla"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white"/></a>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Snake Game" width="300px"/>
