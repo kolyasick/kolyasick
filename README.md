@@ -35,8 +35,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kolyasick&theme=onedark" alt="Трофеи"/>
 </p>
 
-### 🎮 Немного развлечений
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Snake Game" width="300px"/>
 </p>
