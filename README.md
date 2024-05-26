@@ -8,7 +8,7 @@
   <a href="https://t.me/kolya_sickkk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://vk.com/sin_s1mpla"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </div>
-<h3 align="center">Я начинающий frontend разработчик из г. Санкт-Петербург</h3>
+<h3 align="center">![Frontend Sticker](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)Начинающий frontend разработчик</h3>
 
 <h3 align="center">📈 Маркетолог Яндекс.Директ</h3>
 <p align="center">Имею опыт работы с Яндекс.Директ, помогая бизнесам достигать своих целей с помощью эффективных рекламных кампаний.</p>
