@@ -2,9 +2,6 @@
 <h3 align="center">Я начинающий frontend разработчик из г. Санкт-Петербург</h3>
 
 <p align="center">
-  <a href="https://github.com/kolyasick">
-    <img src="https://komarev.com/ghpvc/?username=kolyasick&label=Просмотры профиля&color=0e75b6&style=flat" alt="Просмотры профиля"/>
-  </a>
   <a href="https://t.me/kolya_sickkk">
     <img src="https://img.shields.io/badge/Telegram-Follow-blue" alt="Telegram Follow"/>
   </a>
