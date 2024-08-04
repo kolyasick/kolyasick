@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://t.me/kolya_sickkk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://vk.com/sin_s1mpla"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white"/></a>
+  <a href="https://vk.com/kolya_sickk"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </div>
 <h3 align="center">🚀 Начинающий frontend разработчик</h3>
 
