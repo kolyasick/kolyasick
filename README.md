@@ -5,8 +5,8 @@
 <h1 align="center">Привет! Меня зовут Николай <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <div align="center">
-  <a href="https://t.me/kolya_sickkk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://vk.com/kolya_sickk"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white"/></a>
+  <a target="_blank" href="https://t.me/kolya_sick"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a target="_blank" href="https://vk.com/kolya_sickk"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white"/></a>
 </div>
 <h3 align="center">🚀 Frontend разработчик</h3>
 
